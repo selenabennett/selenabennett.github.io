@@ -1,0 +1,34 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+      }
+    body {
+       width: auto;
+       height: 100%;
+       background-color: C2FFFC;
+     }
+    header {
+      text-align: center;
+        background-color:0D84C4;
+        padding: 2px;
+        border-style: solid;
+        border-color: 6C0CE8;
+        border-width: 10px;
+        font-size: 20px;
+        display: block;
+      }
+    ul {
+      color: blue;
+      font-family: serif;
+      list-style-type: none;
+      background-color: 90C4B1;
+      background-size: auto;
+      border-bottom-color: black;
+      font-size: 40px;
+      display: flex;
+      justify-content: space-around;;
+      align-content: space-around;
+    }
